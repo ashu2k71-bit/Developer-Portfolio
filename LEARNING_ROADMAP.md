@@ -68,7 +68,7 @@ a visitor photo, sends it through Telegram and
 unlocks using a servo after owner approval.
 
 ## Mentor
-Faculty mentor name: To be confirmed.
+Faculty mentor name: Ankita Gupta.
 
 ## Weekly Study Plan
 Study and practise coding for 3 hours every week.
